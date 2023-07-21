@@ -39,7 +39,6 @@ body {
 /*menu de navegação*/
 
 .navbar {
-    width: 100%;
     background-color: rgba(248, 89, 40, 0.87);
 }
 
@@ -53,6 +52,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding-block: 0.1em;
+    width: 100%;
 }
 
 .menu-texto {
