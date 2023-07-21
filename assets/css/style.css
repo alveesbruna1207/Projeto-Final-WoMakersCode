@@ -126,15 +126,6 @@ body {
     margin-bottom: 40px;
 }
 
-.main-conteudo {
-    display: flex;
-    flex-direction: column;
-    background-image: url(/assets/images/folhas.webp);
-    background-repeat: no-repeat;
-    background-position: left top;
-    background-size: contain;
-}
-
 .main-conteudo-cima {
     display: flex;
     flex-direction: row;
@@ -157,7 +148,7 @@ body {
 }
 
 .texto-descricao {
-    background-image: url(/assets/images/folhas.webp);
+    background-image: url(/assets/images/folhas.svg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: contain;
@@ -170,7 +161,7 @@ body {
 }
 
 .texto-descricao-2 {
-    background-image: url(/assets/images/flores.webp);
+    background-image: url(/assets/images/flores.svg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: contain;
