@@ -129,7 +129,7 @@ body {
 .main-conteudo {
     display: flex;
     flex-direction: column;
-    background-image: url(/assets/images/undraw_fall_thyk.svg);
+    background-image: url(/assets/images/folhas.webp);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: contain;
@@ -157,7 +157,7 @@ body {
 }
 
 .texto-descricao {
-    background-image: url(/assets/images/undraw_fall_thyk.svg);
+    background-image: url(/assets/images/folhas.webp);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: contain;
@@ -170,7 +170,7 @@ body {
 }
 
 .texto-descricao-2 {
-    background-image: url(/assets/images/undraw_blooming_re_2kc4.svg);
+    background-image: url(/assets/images/flores.webp);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: contain;
